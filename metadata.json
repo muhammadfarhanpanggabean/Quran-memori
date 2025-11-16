@@ -1,0 +1,5 @@
+{
+  "name": "Quran Memorization Challenge",
+  "description": "A game to test and improve your Quran memorization. Choose a Juz, select a difficulty, and climb the leaderboard. Features light/dark modes and motivational quotes.",
+  "requestFramePermissions": []
+}
